@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "torem",
+    "slug": "torem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "torem"
+}
